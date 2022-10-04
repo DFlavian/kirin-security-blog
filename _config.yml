@@ -1,6 +1,4 @@
 remote_theme: huxpro/huxpro.github.io
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-paginate
+plugins: [jekyll-paginate]
 title: Kirin Security Blog
 description: Reaserches, writeups and Cyber Security related articles
