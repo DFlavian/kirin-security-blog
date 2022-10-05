@@ -78,7 +78,7 @@ ga_domain: blog.kirinsecurity.com
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Cyber Security Enthusuast"
+sidebar-about-description: "CTF player @ pwnthem0le <br> Cyber Security Enthusuast"
 sidebar-avatar: https://media-exp1.licdn.com/dms/image/C4E03AQHCYsgHtrX9SA/profile-displayphoto-shrink_200_200/0/1654028726605?e=1670457600&v=beta&t=HZS6n7gHX5zt5EKEv_TIrpji3E-2JDF8I0zFBP4LSFA # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -95,6 +95,6 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
+    { title: "pwnthem0le", href: "https://pwnthem0le.polito.it" },
 
   ]
