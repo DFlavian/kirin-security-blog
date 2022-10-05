@@ -3,7 +3,7 @@ plugins: [jekyll-paginate]
 title: Kirin Security Blog
 description: Reaserches, writeups and Cyber Security related articles
 # Site settings
-title: Hux Blog
+title: Kirin Security Blog
 SEOTitle: Kirin Security Blog
 header-img: img/home-bg.jpg
 email: p.dei@kirinsecurity.com
